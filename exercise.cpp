@@ -5,6 +5,6 @@ int main(){
     system ("cls");
 
     cout << "wellcome to gp II" << endl;
-
+    cout << "I am Sopheak" << endl;
     return 0;
 }
