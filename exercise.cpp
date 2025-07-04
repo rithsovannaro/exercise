@@ -5,6 +5,7 @@ int main(){
     system ("cls");
 
     cout << "wellcome to gp II" << endl;
+    cout << "I am Sovan" << endl;
     cout << "Hello kampuchea"<<endl;
     cout << "I am Thavin" << endl;
     cout << "I am Sopheak" << endl;
